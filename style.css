@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'lato','sans-serif';
+}
+.orange{
+    color: rgb(0, 217, 255);
+}
+.border-left{
+    border-left: 0.3rem solid rgb(0, 217, 255);
+}
+.linked-btn{
+    color: black;
+    background: rgba(40, 230, 255, 0.685);
+    padding: 10px 30px;
+    font-size: 14px;
+    text-decoration: none;
+    border-radius: 5px;
+    box-shadow: 0 0 8px 0px #00000087;
+    cursor: pointer;
+}
+.linked-btn:hover{
+    background: rgb(40, 230, 255);
+}
+.margin-top{
+    margin-top: 3rem;
+}
+/*------------------------------------------- HEADER START -------------------------------------------*/
+#margin-both-side{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 3rem;
+}
+.full-width{
+    display: flex;
+    justify-content: space-between;
+}
+.half-width{
+    width: 50%;
+}
+.half-width h1{
+    font-size: 3.5rem;
+    margin-left: 3px;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+.half-width p{
+    margin: 2rem 0;
+    width: 70%;
+}
+.half-width h4{
+    margin-top: 3rem;
+}
+.half-width img{
+    width: 90%;
+}
+/*------------------------------------------- HEADER END -------------------------------------------*/
+/*------------------------------------------- THREE COLUM START -------------------------------------------*/
+.three-colum h1{
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 5rem;
+}
+.colum3{
+    display: flex;
+    justify-content: space-between;
+}
+.colum{
+    width: 25%;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 0 20px -8px #000000bf;
+}
+.colum img{
+    width: 45%;
+}
+.colum1-color{
+    background: rgba(0, 255, 255, 0.1);
+}
+.colum2-color{
+    background: rgba(255, 0, 0, 0.1);
+}
+.colum3-color{
+    background: rgba(255, 208, 0, 0.1);
+}
+/*------------------------------------------- THREE COLUM END -------------------------------------------*/
+/*------------------------------------------- DEVOLOPER SECTION START -------------------------------------------*/
+.coding-img{
+    margin: 5rem 0;
+    display: flex;
+    justify-items: start;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+.coding-img img{
+    width: 70%;
+    float: right;
+}
+.coding-img h1{
+    font-size: 3rem;
+    margin-top: 0;
+}
+.coding-img p{
+    margin-top: 1rem;
+    width: 100%;
+}
+/*------------------------------------------- DEVOLOPER SECTION END -------------------------------------------*/
+/*------------------------------------------- COMMUNITY SECTION START -------------------------------------------*/
+.community-img img{
+    width: 70%;
+    float: right;
+}
+/*------------------------------------------- COMMUNITY SECTION START -------------------------------------------*/
+/*------------------------------------------- OUR MISSION & VISION START -------------------------------------------*/
+.mission-img{
+    width: 70%;
+    margin: 6rem 0 2rem 0;
+}
+.mission-img h1{
+    font-size: 4rem;
+    margin-top: 1rem;
+    margin: 0;
+}
+.mission-img p{
+    margin-top: 0;
+}
+/*------------------------------------------- OUR MISSION & VISION END -------------------------------------------*/
+/*------------------------------------------- FOOTER SECTION SECTION START -------------------------------------------*/
+#footer{
+    padding: 2rem;
+    background: #000;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    margin-top: 5rem;
+}
+#footer h1{
+    font-size: 2.5rem;
+    color: #fff;
+    margin: 0;
+}
+#footer p{
+    color: rgb(97, 97, 97);
+}
+/*------------------------------------------- FOOTER SECTION START -------------------------------------------*/
+/*-------*---------------*--------------*------- THE END  ----------*--------------*------------*-------*/
+
+
+
+
+
